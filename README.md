@@ -1,14 +1,1 @@
-Skill Extraction Project
-An NLP-based system for automated skill extraction from resumes, job descriptions, and professional text. It uses preprocessing, Named Entity Recognition (NER), and machine learning models (spaCy/BERT) to identify technical and soft skills, exporting results in structured formats.
-🔑 Features
-Clean text preprocessing
-Accurate skill extraction via NER/ML models
-Custom skill dictionary support
-Export results as CSV/JSON
-📌 Applications
-Resume parsing & candidate shortlisting
-Job–skill matching for portals
-Employee skill gap analysis
-Workforce trend research
-⚙️ Tech Stack
-Python, spaCy, NLTK, scikit-learn, transformers, Pandas
+The Skill Extraction Project is an NLP-driven system that automatically identifies and extracts both technical and soft skills from unstructured text such as resumes, job descriptions, and professional profiles. By combining text preprocessing, Named Entity Recognition (NER), and machine learning models like spaCy and BERT, it delivers accurate and structured outputs in formats such as CSV or JSON. This enables applications in recruitment automation, job–skill matching, employee skill gap analysis, and workforce trend research, making it a valuable tool for HR, job portals, and organizational analytics.
